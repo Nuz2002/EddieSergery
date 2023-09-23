@@ -1,0 +1,12 @@
+body{
+  background-color: antiquewhite;
+}
+
+p{
+  font-family: Arial;
+}
+
+.welcome-msg{
+  font-size: 50px;
+  font-weight: bold;
+}
